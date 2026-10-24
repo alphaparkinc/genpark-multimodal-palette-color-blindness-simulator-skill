@@ -1,0 +1,12 @@
+{
+  "name": "genpark-multimodal-palette-color-blindness-simulator-skill",
+  "version": "1.0.0",
+  "description": "Multimodal accessibility engine simulating Protanopia, Deuteranopia, and Tritanopia color vision deficiencies",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["color-blindness", "accessibility", "protanopia", "deuteranopia", "tritanopia", "wcag-cvd", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
